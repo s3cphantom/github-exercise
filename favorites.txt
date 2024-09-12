@@ -6,3 +6,6 @@ deadpool
 avangers 
 X-men
 
+cats 
+dogs 
+monkeys 
